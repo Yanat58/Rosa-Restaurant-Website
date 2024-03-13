@@ -251,7 +251,7 @@ header {
   font-size: 11px;
   background-color: var(--color-white);
   padding: 9px 18px;
-  columns: var(--body-font-color);
+  color: var(--body-font-color);
   border-radius: 4px;
   transition: backgraund-color .5s;
 }
